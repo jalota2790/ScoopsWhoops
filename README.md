@@ -5,6 +5,7 @@ Scoops Whoops is a fun game in which kids swipe left and right the device to cat
 #Overall thinking and approach to this game : Since the game theme was " You dropped your ice cream", so I choose with a game theme with falling scoops and a cone to catch it. Scoops will keep stacking on each other. If player, misses any scoops, the game will be over. The level of the game gradually increases with incresed falling speed of scoops and increased number of scoops.
 
 #Known issues & solutions : 
+- Object pooling need to be added. Object pooler Script in the project need to be added as components to mange the prefabs. 
 - UIController can be a seperate script to mange UI
 - With too many scoops scene can be heavy, 
 - It can be optimised for different resolutions
